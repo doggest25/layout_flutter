@@ -106,12 +106,12 @@ Widget buttonSection = Row(
 Widget textSection = Container(
   padding: const EdgeInsets.all(32),
   child: const Text(
-    'Carilah teks di internet yang sesuai '
-    'dengan foto atau tempat wisata yang ingin '
-    'Anda tampilkan. '
-    'Tambahkan nama dan NIM Anda sebagai '
-    'identitas hasil pekerjaan Anda. '
-    'Selamat mengerjakan 🙂.',
+    'Gunung Bromo adalah salah satu gunung berapi yang paling terkenal di Indonesia,' 
+    'terletak di Taman Nasional Bromo Tengger Semeru, Jawa Timur.'
+    'Dengan ketinggian sekitar 2.392 meter di atas permukaan laut,' 
+    'Bromo adalah bagian dari kompleks pegunungan Tengger dan dikenal karena pemandangannya yang spektakuler serta suasana mistisnya.\n'
+    '\nNama: AGUSTY LABDANAYOGA\n'
+    'NIM: 2241720215',
     softWrap: true,
   ),
 );
